@@ -4,6 +4,15 @@ git config (--global) user.name "nome"; seta o nome do usuario, nome da pessoa, 
 git config (--global) user.email "email"; seta o email do usuario
 git add "nome arquivo" (sem aspas); adiciona o arquivo para ser monitorado
 git commit -m "mensagem"; deixa os arquivos prontos para envio ao branch principal
+git log; exibe o histórico dos commits -> /termo; busca o termo no log (b busca outro resultado, q sai da busca)
+git log -NUMERO; exibe os ultimos NUMERO commits
+git log --oneline (-NUMERO) (--before="DATA YYYY-MM-DD") (--after=""); traz cada commit resumido em 1 linha
+git log --since="NUMERO days ago"
+git checkout "code do commit" (sem aspas); retorna para o commit informado
+git mv arquivo1.ext arquivo232.ext; renomeia
+git rm arquivo; remove do git
+git diff --staged; compara o arquivo em staged com o ultimo commitado
+git commit --amend -m "mensagem"
 
 
 .gitignore
