@@ -12,7 +12,9 @@ git checkout "code do commit" (sem aspas); retorna para o commit informado
 git mv arquivo1.ext arquivo232.ext; renomeia
 git rm arquivo; remove do git
 git diff --staged; compara o arquivo em staged com o ultimo commitado
-git commit --amend -m "mensagem"
+git commit --amend -m "mensagem"; adiciona arquivos ou corrige o ultimo commit
+git restore --staged arquivo; retira o arqivo do status staged;
+git checkout arquivo; retorna as alterações feitas no arquivo pro estado anterior
 
 
 .gitignore
