@@ -15,7 +15,8 @@ git diff --staged; compara o arquivo em staged com o ultimo commitado
 git commit --amend -m "mensagem"; adiciona arquivos ou corrige o ultimo commit
 git restore --staged arquivo; retira o arqivo do status staged;
 git checkout arquivo; retorna as alterações feitas no arquivo pro estado anterior
-
+git reset HEAD --hard; retorna ao stage anterior antes do commit
+git reset HEAD^ --hard; volta para o ultimo commit
 
 .gitignore
 nomearquivo.ext; remove o arquivo no monitoramento
