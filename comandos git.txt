@@ -17,6 +17,8 @@ git restore --staged arquivo; retira o arqivo do status staged;
 git checkout arquivo; retorna as alterações feitas no arquivo pro estado anterior
 git reset HEAD --hard; retorna ao stage anterior antes do commit
 git reset HEAD^ --hard; volta para o ultimo commit
+git branch nome; cria uma nova branch
+git branch -D nome; remove a branch
 
 Branch -> ramificação do projeto
 
