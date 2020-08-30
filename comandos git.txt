@@ -1,0 +1,11 @@
+git init; cria um repositorio git vazio
+git status; verifica o status dos arquivos alterados
+git config (--global) user.name "nome"; seta o nome do usuario, nome da pessoa, não username/login
+git config (--global) user.email "email"; seta o email do usuario
+git add "nome arquivo" (sem aspas); adiciona o arquivo para ser monitorado
+git commit ; deixa os arquivos prontos para envio ao branch principal
+
+
+.gitignore
+nomearquivo.ext; remove o arquivo no monitoramento
+**nomedapasta; remove a pasta no monitoramento

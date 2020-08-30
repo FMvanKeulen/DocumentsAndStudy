@@ -1,0 +1,28 @@
+Transparência:
+Todos tem visão completa do projeto. Através das dailies, gráficos públicos, painel de tarefas, backlog do produto
+
+Inspeção:
+Feita nos itens acima descritos em Transparência
+
+Adaptação:
+Solicitação de mudanças, ajustes em processos, identificação de riscos, atualização de backlog
+
+Auto-Organização:
+Oferecer a possibilidade de fazer o trabalho da melhor forma possíve, assumir como entregar o produto, todos são co-responsáveis
+Metas - Entender a visão do projeto; trabalho em conjunto; não esperar, ser pró-ativo; aprender coisas novas; entregar valor periodícamente, de forma tangível
+
+Colaboração:
+Consciência - seu trabalho impacta no trabalho dos outros; Articulação - para dividir o esforço em partes menores entre a equipe; Apropriação - assumir o trabalho de outras pessoas e permitir que seu trabalho seja atribuido a outros;
+
+Priorização baseada em valor;
+
+Time-boxing
+Tempo fixo para reuniões, tarefas
+
+Iterativo-incremental
+Processo em que etapas se repetem (sprint) até a entrega do produto ao final da última sprint
+
+Vantagens do SCRUM
+Equipe: Autonomia, colaboração, comunicação intensa, unidade, confiança
+Produtividade: time-boxing, objetivo, foco, entrega de valor, equipe
+Incremental: entrega de valor, feedback rápido, erros em estágios iniciais, qualidade, satisfação do cliente, flexível a mudanças
