@@ -3,7 +3,7 @@ git status; verifica o status dos arquivos alterados
 git config (--global) user.name "nome"; seta o nome do usuario, nome da pessoa, não username/login
 git config (--global) user.email "email"; seta o email do usuario
 git add "nome arquivo" (sem aspas); adiciona o arquivo para ser monitorado
-git commit ; deixa os arquivos prontos para envio ao branch principal
+git commit -m "mensagem"; deixa os arquivos prontos para envio ao branch principal
 
 
 .gitignore
