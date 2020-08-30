@@ -18,6 +18,8 @@ git checkout arquivo; retorna as alterações feitas no arquivo pro estado anter
 git reset HEAD --hard; retorna ao stage anterior antes do commit
 git reset HEAD^ --hard; volta para o ultimo commit
 
+Branch -> ramificação do projeto
+
 .gitignore
 nomearquivo.ext; remove o arquivo no monitoramento
 **nomedapasta; remove a pasta no monitoramento

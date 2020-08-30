@@ -1,0 +1,6 @@
+---------------------------------------------------------------> projeto (branch master)
+    |                   |
+    | ----> branch funcionalidade A
+    base                |
+                        | ----> branch funcionalidade B
+                        base
