@@ -26,8 +26,9 @@ git clone caminho; copia o repositorio git para outro local
 git remote add origin link; adiciona um endereço de repositorio online para receber o repositorio local
 git push -u origin branch; envia a branch para o repositorio online
 git init --bare;
-git fetch;
-git pull;
+git fetch; baixa os arquivos novos sem adicionar os novos ao repositório
+git pull; obter commits de outros pushs
+git tag name; cria uma tag, que pode ser apenas visualizada, não é possível fazer commits na tag
 
 Branch -> ramificação do projeto
 
