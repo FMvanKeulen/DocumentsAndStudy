@@ -1,3 +1,27 @@
+Fluxo SCRUM
+
+Declaração de visão
+Backlog do produto (requisitos -> história de usuário (user story)
+Sprint = iteração
+Duração sprint = 2 a 4 semanas
+Backlog da sprint
+Daily
+Apresentação (produto ou incremento)
+
+Equipe, papéis e responsabilidades
+
+Centrais: Dono do Produto (representa o cliente) / Time SCRUM (programadores) / SCRUM Master (especialista em SCRUM)
+Não-essenciais: 
+
+Dono do Produto:
+	Representa as partes interessadas; define os requisitos do produto; determina a data de entrega e conteúdo, prioriza as necessidades (stories) de acordo com o valor de negócio; mantem o backlog do produto atualizado e priorizado; aceita ou rejeita as entregas.
+	
+SCRUM Master: (facilitador)
+	Responsável pela aplicação dos valores e práticas do SCRUM; remove impedimentos; assegura que a equipe está funcional e produtiva; blinda o time das interferências externas.
+	
+Equipe SCRUM: 5 a 9 pessoas
+Auto organizada e auto gerenciável; estima as stories; aprova as stories do backlog que entrarão nas sprints; se compromete a entregar um incremento; carante o funcional do produto.
+
 Transparência:
 Todos tem visão completa do projeto. Através das dailies, gráficos públicos, painel de tarefas, backlog do produto
 
@@ -26,3 +50,11 @@ Vantagens do SCRUM
 Equipe: Autonomia, colaboração, comunicação intensa, unidade, confiança
 Produtividade: time-boxing, objetivo, foco, entrega de valor, equipe
 Incremental: entrega de valor, feedback rápido, erros em estágios iniciais, qualidade, satisfação do cliente, flexível a mudanças
+
+Projeto Modelo: Escola Esperança
+Proj4Me - proj4.me
+
+Fase INICIAR
+Definindo a visão do projeto
+-Documento de Visão do Projeto
+SMART: ESpecífico, Mensurável, Atingível, Relevante, Temporal

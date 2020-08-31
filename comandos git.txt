@@ -26,6 +26,8 @@ git clone caminho; copia o repositorio git para outro local
 git remote add origin link; adiciona um endereço de repositorio online para receber o repositorio local
 git push -u origin branch; envia a branch para o repositorio online
 git init --bare;
+git fetch;
+git pull;
 
 Branch -> ramificação do projeto
 
