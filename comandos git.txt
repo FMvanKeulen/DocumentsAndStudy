@@ -21,6 +21,10 @@ git branch nome; cria uma nova branch
 git branch -D nome; remove a branch
 git merge "branch"(sem aspas); junta a branch escolhida na branch atual
 git checkout -b nome; cria uma nova branch e já muda para ela
+git rebase branch; parecido com o merge
+git clone caminho; copia o repositorio git para outro local
+git remote add origin link; adiciona um endereço de repositorio online para receber o repositorio local
+git push -u origin branch; envia a branch para o repositorio online
 
 Branch -> ramificação do projeto
 
