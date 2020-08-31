@@ -19,6 +19,7 @@ git reset HEAD --hard; retorna ao stage anterior antes do commit
 git reset HEAD^ --hard; volta para o ultimo commit
 git branch nome; cria uma nova branch
 git branch -D nome; remove a branch
+git merge "branch"(sem aspas); junta a branch escolhida na branch atual
 
 Branch -> ramificação do projeto
 
