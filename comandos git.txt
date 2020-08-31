@@ -20,6 +20,7 @@ git reset HEAD^ --hard; volta para o ultimo commit
 git branch nome; cria uma nova branch
 git branch -D nome; remove a branch
 git merge "branch"(sem aspas); junta a branch escolhida na branch atual
+git checkout -b nome; cria uma nova branch e já muda para ela
 
 Branch -> ramificação do projeto
 
