@@ -58,3 +58,25 @@ Fase INICIAR
 Definindo a visão do projeto
 -Documento de Visão do Projeto
 SMART: ESpecífico, Mensurável, Atingível, Relevante, Temporal
+
+Definindo a Equipe SCRUM
+"Projetos ágeis não terão sucesso sem equipes ágeis"
+--Escolher primeiro o Dono do Produto e SCRUM Master
+->SCRUM Master: capacidade para resolver problemas, foco, disponibilidade e proatividade, comprometimento, lidera pelo exemplo e constrói relações de confiança, capacidade de dar e receber feedbacks construtivos
+-> Dono do Produto: maturidade, planejamento, comunicação, tomada de decisões
+-> Equipe SCRUM: conhecimentos e habilidades técnicas, proatividade, colaboração, companheirismo, disposição
+
+Backlog do Produto
+User stories: tarefa a ser executada
+Épico: conjunto de user stories
+Como coletar user stories: reuniões do grupo de usuários
+Definir prioridades (dono do produto)
+MOSCOW
+Must have
+O
+Should have
+Could have
+O
+Won't have for now
+Criando o Planejamento de Release (funcionalidade):
+Feito após priorizar as tarefas no backlog - liberações a cada sprint (final da sprint 1 = Release 1...) nem todo final de sprint resulta em release

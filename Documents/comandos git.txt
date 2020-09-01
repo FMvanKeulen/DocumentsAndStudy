@@ -29,6 +29,8 @@ git init --bare;
 git fetch; baixa os arquivos novos sem adicionar os novos ao repositório
 git pull; obter commits de outros pushs
 git tag name; cria uma tag, que pode ser apenas visualizada, não é possível fazer commits na tag
+git remote -v; verifica se já tem repositorio remoto
+git config credential.helper store; salva as credenciais
 
 Branch -> ramificação do projeto
 
