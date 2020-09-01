@@ -1,0 +1,41 @@
+DOMAIN DRIVEN DESIGN
+Domínio: é o coração do negócio que você está trabalhando. É baseado em um conjunto de ideias, conhecimento e processos de negócio.
+
+Exploração de modelos criativos
+DDD preza que desenvolvedores façam parte do processo de entender o negócio e todos os seus modelos nos mais diversos ângulos ao invés de simplesmente entrevistar especialistas.
+
+Definir e falar a linguagem Ubíqua
+Linguagem Ubíqua é a linguagem falada no dia a dia no contexto da empresa. É a linguagem que utiliza as terminologias da realidade do negócio.
+
+Quando e por quem foi "criado"
+Eric Evans - Domain-Drive Design
+Utilizado para aplicações complexas
+Fácil de entender
+Difícil de aplicar
+Utilização de diversos padrões de projetos
+
+3 pilares do DDD
+-Linguagem Ubíqua
+-Bounded Contexts (contextos delimitados)
+-Context Maps (relação dos bounded Contexts)
+
+Linguagem Ubíqua:
+   Devs
+       \
+        \
+         \__________ Linguagem Ubíqua
+         /
+        /
+       /
+Experts
+
+Linguagem Ubíqua: Exemplo de Glossário
+Playback - Processo de execução de um vídeo
+Vídeo - Conteúdo que será visto pelo usuário
+Capa - Figura descritiva de um vídeo
+Perfil - Perfil gerado pelo usuário para separar os utilizadores e suas preferências e "Minha Lista"
+Minha Lista - Lista de vídeos usada pelo usuário para armazenar os vídeos que tem interesse em ver depois
+Título - Nome do vídeo
+Pessoas - Personagens que fazem participação em um determinado vídeo
+Gênero - Estilo que define o tipo de um vídeo
+Catálogo - Catálogo de vídeos disponibilizados
