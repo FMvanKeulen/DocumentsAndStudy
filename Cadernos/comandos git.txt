@@ -31,6 +31,7 @@ git pull; obter commits de outros pushs
 git tag name; cria uma tag, que pode ser apenas visualizada, não é possível fazer commits na tag
 git remote -v; verifica se já tem repositorio remoto
 git config credential.helper store; salva as credenciais
+git checkout -- .: retorna os arquivos ao estado original
 
 Branch -> ramificação do projeto
 
