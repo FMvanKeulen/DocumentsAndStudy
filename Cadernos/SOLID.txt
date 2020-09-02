@@ -1,0 +1,32 @@
+S SRP Single Responsability Principle
+O OCP Open / Closed Principle
+L LSP Liskov Substitution Principle
+I ISP Interface Segregation Principle
+D DIP Dependency Inversion Principle
+
+Os princípios SOLID devem ser aplicados para se obter os benefícios da orientação a ojetos, tais como:
+->Seja fácil de se manter, adaptar e se ajustar às alterações de escopo;
+->Seja testável e de fácil entendimento;
+->Seja extensível para alterações com o menor esforço necessário;
+->Que forneça o máximo de reaproveitamento;
+->Que permaneça o máximo de tempo possível em utilização.
+
+Utilizando os princípios SOLID é possível evitar problemas muito comuns:
+->Dificuldade na testabilidade / criação de testes de unidade;
+->Código macarrônico, sem estrutura ou padrão;
+->Dificuldades de isolar funcionalidades;
+->Duplicação de código, uma alteração precisa ser feita em N pontos;
+->Fragilidade, o código quebra facilmente em vários pontos após uma mudança
+
+SRP
+Uma classe deve ter um, e apenas um, motivo para ser modificada
+
+OCP
+Entidades de software (classes, módulos, funções, etc) devem estar abertas para extensão, mas fechadas para modificação
+
+LSP
+Se q(x) é uma propriedade demonstrável dos objetos x de tipo T, então q(y) deve ser verdadeiro para objetos y de tipo S onde S é um subtipode T
+Uma classe base deve ser substituída pela sua classe derivada
+
+ISP
+Clientes (classes) não devem ser forçados a depender de métodos que não usam
