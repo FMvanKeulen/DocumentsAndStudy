@@ -39,3 +39,32 @@ Título - Nome do vídeo
 Pessoas - Personagens que fazem participação em um determinado vídeo
 Gênero - Estilo que define o tipo de um vídeo
 Catálogo - Catálogo de vídeos disponibilizados
+
+Bounded Contexts:
+Delimita os contextos da aplicação
+Cada contexto possui suas responsabilidades claramente definidas
+Cada contexto pode ter sua própria linguagem ubíqua
+Utilização de histórias e levantamento do escopo do projeto com o "domain expert" auxilia no processo de delimitação de contextos
+
+Exemplo:
+Cria uma conta para acessar o sistema
+Faz o login
+Seleciona o plano de acesso e realiza a assinatura
+Cria um perfil de acesso
+Navega no catálogo de vídeos
+Realiza uma busca através do título e/ou gênero
+Adiciona os vídeos que tem interesse em sua lista
+Acessa o vídeo escolhido e faz o playback
+
+Modelagem estratégica
+
+CATALOGO    ASSINATURA      VIDEO       PAGAMENTO
+PERFIL      AUTENTICACAO    MINHA LISTA
+
+Video, Catálogo -> Domínio Principal (razão de existir)
+Pagamento, Assinatura, Perfil, Minha Lista -> Domínio Genérico (faz com que o domínio principal funcione)
+Autenticação -> Domínio Auxiliar ()
+
+Context Map
+D - Downstream
+U - Upstream ("quem manda")
