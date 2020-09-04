@@ -1,0 +1,11 @@
+Docker:
+-Não é um sistema de virtualização tradicional
+-Engine de administração de containers
+-Utiliza os serviços do LXC (Linux Containers)
+-Open Source e escrito em Go
+-Sistema de Virtualização Baseado em Software
+-Host e Containers compartilham o Kernel
+-Empacota software com vários níveis de isolamento
+
+Por que não usar VM?
+Consumo de recursos maior
