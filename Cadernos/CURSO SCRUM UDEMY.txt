@@ -80,3 +80,26 @@ O
 Won't have for now
 Criando o Planejamento de Release (funcionalidade):
 Feito após priorizar as tarefas no backlog - liberações a cada sprint (final da sprint 1 = Release 1...) nem todo final de sprint resulta em release
+
+Fase PLANEJAR E ESTIMAR
+Dono do Produto "refina" o backlog - divide "épicos" em stories
+Planejando a próxima sprint: 
+-Dono do Produto define a próxima story potencial a ser selecionada para ser parte da Sprint
+-Equipe SCRUM avalia a story, garante que existe um perfeito entendimento e estima o esforço necessário para desenvolvê-la
+-Equipe SCRUM se compromete com um subconjunto de user stories que eles estimaram que conseguirão entregar na próxima Sprint
+-Reunião de Planejamento de Sprint (time-boxed 2 horas para cada semana de duração da sprint)
+-Planning Poker: cada membro da equipe scrum dá uma estimativa para cada story (se a maioria coincidir, será o tempo estimado)
+Criando e Estimando as Tarefas
+
+Fase IMPLEMENTAR
+Conduzindo a daily (15 minutos)
+SCRUM Master faz 3 perguntas: 
+-O que fiz ontem?
+-O que vou fazer hoje?
+-Há algum impedimento?
+Gráfico Burndown
+Ao final da reunião: Painel de tarefas atualizado; gráfico Burndown atualizado; lista de impedimento será atualizada imediatamente (e SCRUM Master vai agir); Equipe começa o dia motivada e segue com suas tarefas.
+Refinando o Backlog do produto
+Novo item (mudança, novo requisito, story reprovada etc.)
+A mudança ou acréscimo é entendida pelo Dono do Produto e convertidqa em story
+A nova story é adicionada ao Backlog do Produto em um local específico, de acordo com sua prioridade
