@@ -68,3 +68,25 @@ Autenticação -> Domínio Auxiliar ()
 Context Map
 D - Downstream
 U - Upstream ("quem manda")
+
+Camadas:
+Presentation
+Application
+Domain
+Infra
+Entities
+
+Entities
+Projeto que representa tabela no banco (objetos)
+
+Domain
+Projeto que tem como objetivo guardar toda as regras de negócios / persistência de dados / interfaces do projeto
+
+Infra
+Projeto que tem como objetivo acessar e executar comandos no banco de dados
+
+Application
+Projeto que tem como objetivo ser uma ponte entre o domínio e a apresentação deixando disponíveis somente métodos que o projeto apresentação poderá utilizar
+
+Presentation
+Projeto que tem como objetivo ter a interface que o usuário vai fazer toda a interação (web api)
