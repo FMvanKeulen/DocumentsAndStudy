@@ -9,3 +9,26 @@ Docker:
 
 Por que não usar VM?
 Consumo de recursos maior
+
+Containers:
+Segragação de de processos no mesmo Kernel (isolamento)
+Sistemas de arquivos criados a partir de uma imagem
+Ambientes leves e portáties no qual aplicações são executadas
+Encapsula todos os binários e bibliotecas necessárias para execução de uma App
+Algo entre um chroot e uma VM
+
+CHROOT
+comando que redefine a pasta raiz de determinado processo
+
+Docker images:
+Modelo de sistema de arquivo somente-leitura usada para criar containers
+Imagens são criadas através de um processo chamado build
+São armazenadas em repositórios no Registry
+São compostas por uma ou mais camadas (layers)
+Uma camada representa uma ou mais mudanças no sitema de arquivo
+Uma camada é também chamada de imagem intermediária
+A junção dessas camadas formam a imagem
+Apenas a ultima camada pode ser alterada quando o container for iniciado
+AUFS (Advanced multi-layered unification filesystem) é muito usado
+O grande objetivo dessa estratégia de dividir uma imagem em camadas é o reuso
+É possível compor imagens a partir de outras imagens
