@@ -32,3 +32,7 @@ Apenas a ultima camada pode ser alterada quando o container for iniciado
 AUFS (Advanced multi-layered unification filesystem) é muito usado
 O grande objetivo dessa estratégia de dividir uma imagem em camadas é o reuso
 É possível compor imagens a partir de outras imagens
+
+Arquitetura:
+Docker Hub (nuvem)
+Daemon (armazena as imagens)
